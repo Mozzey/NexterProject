@@ -24,7 +24,8 @@
     }
 
     @media only screen and (max-width: $bp-sm) {
-      grid-template-columns: min-content max-content;    }
+      grid-template-columns: min-content max-content;
+    }
   }
 
   &__img {
